@@ -1,0 +1,50 @@
+.hello{
+    color: blue;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 10px;
+}
+.type{
+    margin-top: ;
+}
+
+.dinesh{
+    color: brown;
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.world{
+    color: aqua;
+}
+
+.user{
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    padding-left:px;
+    margin-right: 20px;
+    margin-top: 20px;
+}
+.story{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: black;
+} 
+
+.pass{
+    margin-top: 10px;
+    margin-left: 0pxpx;
+}
+.log{
+    margin-left: 100px;
+    margin-top: 20px;
+}
+.typ{
+    margin-top: 50px;
+    max-width: fit-content;
+    margin-bottom: 10px;
+    
+}
+.word{
+    margin-bottom 30px;
+    max-width: fit-content;
+    ;
+}

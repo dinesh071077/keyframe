@@ -1,0 +1,10 @@
+.phone{
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: column ;
+    height: 100vh;
+    background-color: blue;
+    color: brown;
+    width: 100px;
+    
+}
